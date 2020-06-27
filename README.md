@@ -1,6 +1,6 @@
 # Face-recognition
 
-This code is for recognize faces. Here I use celebrities' faces. You should make sure that you have these libraries before writing the code
+This code is for recognize faces. Here I have used celebrities' faces. You should make sure that you have these libraries before writing the code
 cmake
 dlib
 face_recognition
